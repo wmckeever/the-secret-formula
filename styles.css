@@ -1,0 +1,22 @@
+#sandwichDiv{
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid grey;
+  
+}
+
+#caDiv{
+  display: block;
+  align-items: center;
+  border: 2px solid grey;
+  border-style: groove;
+  padding: 20px;
+}
+#caBackground{
+  background-image: url("https://merriam-webster.com/assets/ld/images/legacy_print_images/combination_lock.gif");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 180px;
+  
+
+}
